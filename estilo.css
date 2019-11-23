@@ -1,0 +1,194 @@
+footer {
+    
+    /* position: static ; */
+    
+    width: 100%;
+    /* height: 40px; */
+    margin-bottom: 0;
+}
+
+#c1{
+    background-image: url("logoAlan.png");
+    background-size: cover;
+}
+
+#nav{
+    background-color: blanchedalmond;
+}
+.navbar{
+    margin: 0px;
+
+}
+
+.bodycolor{
+    background-color: #E8E8E8;
+}
+
+.footercont {
+    position : absolute;
+    /* position: static ; */
+    top: 1000px;
+    width: 100%;
+    /* height: 40px; */
+}
+
+
+.footerserv {
+    position : absolute;
+    /* position: static ; */
+    top: 2800px;
+    width: 100%;
+    /* height: 40px; */
+}
+
+
+footer p{
+    color: white;
+    /* position: absolute; */
+    align-items: center;
+}
+
+.text-center{
+    margin: auto;
+    color: white;
+}
+
+.card-text{/*Modificação -- Ruann */
+    text-align: justify;
+}
+
+.card:hover{/*Modificação - Ruann*/
+    border:20px gray;
+}
+
+.form-group{
+    margin:20px;
+}
+
+.entrada{
+    position: absolute;
+    left: 25%;
+    top: 25%;
+}
+
+#login {
+    background-image: url('back.gif');
+    background-size: cover;
+    margin: 10px;
+    width: 50%;
+}
+
+#inputEmail{
+    margin: 10px;
+    width: 100%;
+}
+
+#inputPassword{
+    margin: 10px;
+    width: 100%;
+}
+
+#inputRemember{
+    color: white;
+}
+
+.textregist{
+    color: #ffff;
+}
+
+#inputEnter{
+    position: absolute;
+    width: 40%;
+    top: 110%;
+    right: 30%;
+}
+
+#inputRegistrar{
+    position: absolute;
+    width: 25%;
+    top: 90%;
+    right: 37%;
+}
+
+#login a{
+    color : white;
+
+}
+
+.divlogin{
+    position: absolute;
+    right: 25%;
+    top: 30%;
+    width: 900px;
+}
+
+.divregistrar{
+    position: absolute;
+    right: 25%;
+    top: 25%;
+    width: 800px;
+}
+
+.divcliente{   
+    padding: 20px;
+}
+
+.h2page{
+    position: absolute;
+    left: 14%;
+}
+
+.h1page{
+    position: absolute;
+    left: 14%;
+}
+.divone{
+    position: absolute;
+    top: 20% ;
+    width: 1200px;
+
+}
+
+.formone{
+    position: absolute;
+    top: 20% ;
+    width: 1200px;
+
+}
+
+
+#btnEnviaContato{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    /* right: 50%; */
+    align-content: center;
+    top: 100%;
+}
+
+.container{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    width: 80%;
+}
+
+.Cadastro{
+    position: absolute;
+    width: 80%;
+    top : 5%;
+    left: 10%;
+    right: 25%;
+    margin :100px;
+
+
+}
+.linha{
+    border-bottom: 3px solid lightslategray;
+}
+
+.Cadastro_prod{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    width: 40%;
+}
